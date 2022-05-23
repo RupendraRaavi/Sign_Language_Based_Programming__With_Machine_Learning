@@ -1,2 +1,8 @@
-# YOLO-3-OpenCV
- Sign_Language_Based_Programming
+# Data collection:
+ All the data is collected on my own
+ 
+ # Requirements
+ 
+ Tensorflow ; Numpy ; Opencv (CV2)
+ 
+ 
